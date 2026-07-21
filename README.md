@@ -1,2 +1,2 @@
 # Actividad_individual
-Prueba_1
+Edición IHM
